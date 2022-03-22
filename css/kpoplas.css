@@ -1,0 +1,273 @@
+/*tracker abaixo*/
+audio{ height:35px; width:900px;
+    margin: 100px;
+    margin-left: -1px;
+    float: right;
+}
+ 
+body{
+background-image: linear-gradient(#000000, #000000);
+height: 100%;
+margin: 0;
+padding: 0;
+min-width: 280px;
+max-width: 1366px; 
+}
+
+
+/*fontes abaixo*/
+h1#nomeplay1{
+color: white;
+font-family: 'Louis George Cafe Bold';
+font-weight: normal;
+margin-left: 340px;
+margin-top: 10px;
+width: 1200px;
+}
+h2#playlist1{
+color: white;
+font-family: 'Louis George Cafe Bold';
+font-weight: normal;
+margin-top: 50px;
+margin-left: 345px;
+}
+@font-face {
+font-family: 'Louis George Cafe';
+src:  url('fonts/Louis George Cafe.ttf');
+font-weight: normal;
+font-style: normal; 
+}
+@font-face {
+font-family: 'Louis George Cafe Bold';
+src:  url('fonts/Louis George Cafe Bold.ttf');
+font-weight: normal;
+font-style: normal; 
+/*
+ - opentype (otf)
+ - truetype  (ttf)
+ - embedded-opentype
+ - truetype-aat (Apple Advanced Typography)
+ - svg 
+*/
+}
+/*---------------------- capa playlist ------------------------*/
+div#img_capa{
+display: block;
+float: left;
+padding: 5px;
+margin-top: 45px;
+margin-left: 100px;
+max-width: 186px;
+}
+img#capa1{
+border-radius: 30px 20px 30px;
+}
+/*fim*/
+div#sub_cor{
+background-image: linear-gradient( #e57691,#e7a8c3, #000000); /*#6f4347*/
+display:flexbox;
+width: 100%;
+height: 315px;
+}
+/*------------------------------------------ caixas de aúdio ----------------------------------*/
+/*1*/
+div#c1{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 90px;
+}
+img#img1{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c1{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*2*/
+div#c2{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img2{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c2{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*3*/
+div#c3{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img3{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c3{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*4*/
+div#c4{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img4{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c4{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*5*/
+div#c5{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img5{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c5{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*6*/
+div#c6{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img6{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c6{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*7*/
+div#c7{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img6{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c7{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*8*/
+div#c8{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img6{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c8{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*9*/
+div#c9{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img6{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c9{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+/*10*/
+div#c10{
+float: left;
+clear: right;
+margin-left: 110px;
+margin-top: 80px;
+}
+img#img6{
+margin-top: -50px;
+padding: 10px;
+border-radius: 30px 20px 30px;
+}
+h3#c10{
+color: white;
+font-family: 'Louis George Cafe';
+font-weight: normal;
+position: relative;
+top: 110px;
+right: -215px;
+}
+
