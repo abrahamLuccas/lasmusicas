@@ -1,0 +1,212 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #07000c;
+    height: 80vh;
+    width: 90vh;
+}
+
+/*----------------------------------------- faixa preta --------------------------------------------*/
+
+#Logo{
+    position: absolute;
+    top:20px;
+    right: 1180px;
+}
+#nome{
+    position: absolute;
+    top: 160px;
+    right: 550px;
+
+}
+/*------------------------------------------------------fim do logo------------------------------------------*/
+
+#sertanejo
+{
+  position: relative;
+  top:65px; /*altura*/
+  right: -250px; /*lado*/
+}
+#legenda1{
+color: rgb(238, 238, 238);
+position: relative;
+right: 180px ;
+top: 200px;
+}
+
+#mpb{
+  position: relative;
+  top:28px; /*altura*/
+  right: -300px; /*lado*/
+}
+#legenda2{
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -230px ;
+  top: -15px;
+}
+
+#trap{
+  position: relative;
+  top: -225px; /*altura*/
+  right: -750px; /*lado*/
+}
+#legenda3{
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -25px ;
+  top: -15px;
+}
+#rock
+{
+  position: relative;
+  top: -480px; /*altura*/
+  right: -1000px; /*lado*/
+}
+#legenda4{
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -20px ;
+  top: -15px;
+  }
+#pagode{
+  position: relative;
+  top:-470px; /*altura*/
+  left:245px;
+}
+#legenda5{
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -10px ;
+  top: -15px;
+  }
+#kpop 
+{
+  position: relative;
+  top:-725px; /*altura*/
+  right: -1000px; /*lado*/
+}
+#legenda6{
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -30px ;
+  top:-15px;
+  }
+#eletronica
+{
+  position: absolute;
+  top:400px; /*altura*/
+  right: 380px; /*lado*/
+}
+#legenda7{
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: 5px;
+  top: -15px;
+  }
+#classica
+{
+  position: relative;
+  top:-705px; /*altura*/
+  right: -490px; /*lado*/
+}
+#legenda8{
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -50px ;
+  top:-15px;
+  }
+
+  #gospel
+  {
+  position: relative;
+  top:-965px; /*altura*/
+  right: -240px; /*lado*/
+  }
+  #legenda9
+  {
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -30px ;
+  top:-15px;
+  }
+
+  #rap
+  {
+  position: absolute;
+  top: 400px; /*altura*/
+  right: 660px; /*lado*/
+  }
+  #legenda10
+  {
+  text-decoration: none;
+  color: rgb(238, 238, 238);
+  position: relative;
+  right: -50px ;
+  top: -15px;
+  }
+
+.button{
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.2s;
+  position: relative;
+  top: 20px;
+  width: 200px;
+  height:45px;
+  border-radius:50px;
+  font-family: 'Gotham';
+  }
+.Inicial{
+  background-color: rgb(255, 255, 255);
+  left: 300px;
+  }
+.Playlist{
+  background-color: rgb(255, 255, 255);
+  left: 400px;
+  }
+  .Cadastro{
+   background-color: rgb(255, 255, 255);
+    left: 500px;
+ 
+    }
+.Inicial:hover{
+  transform: scale(1.1);filter: drop-shadow(2px 3px 3px rgba(155, 155, 155, 0.479) );
+  }
+.Playlist:hover{
+  transform: scale(1.1);filter: drop-shadow(2px 3px 3px rgba(155, 155, 155, 0.479) );
+  }
+.Cadastro:hover{
+    transform: scale(1.1);filter: drop-shadow(2px 3px 3px rgba(155, 155, 155, 0.479) );
+ }
+ @font-face {
+  font-family: 'Gotham';
+  src:  url('Gotham-Black.otf');
+  font-weight: normal;
+  font-style: normal; 
+  /*
+   - opentype (otf)
+   - truetype  (ttf)
+   - embedded-opentype
+   - truetype-aat (Apple Advanced Typography)
+   - svg 
+  */
+}
+a{
+  color: inherit;
+}
